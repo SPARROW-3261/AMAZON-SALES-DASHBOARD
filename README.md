@@ -170,4 +170,5 @@ Amazon Sales Analysis Dashboard (Feb–Apr 2025)
 This dashboard demonstrates how Power BI can transform raw e-commerce data into actionable business insights, helping organizations improve sales performance and customer satisfaction.
 
 9. Example
-    AMAZON SALES DASHBOARD.png
+    [AMAZON SALES DASHBOARD.png](https://github.com/SPARROW-3261/AMAZON-SALES-DASHBOARD/blob/main/AMAZON%20SALES%20DASHBOARD.png)
+   
